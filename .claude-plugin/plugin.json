@@ -18,5 +18,8 @@
     "asta-powerproject",
     "dcma"
   ],
-  "privacyPolicyUrl": "https://schedulelens.com/privacy/"
+  "privacyPolicyUrl": "https://schedulelens.com/privacy/",
+  "supportUrl": "https://schedulelens.com/contact/",
+  "documentationUrl": "https://schedulelens.com/developers/",
+  "termsOfServiceUrl": "https://schedulelens.com/terms/"
 }
