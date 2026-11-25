@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "schedulelens": {
+      "type": "http",
+      "url": "https://api.schedulelens.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "schedulelens",
+  "displayName": "ScheduleLens",
+  "description": "Construction schedule reviews with ScheduleLens: when you share a P6, MS Project or Asta programme, Claude offers a ScheduleLens analysis and reads the results back through the ScheduleLens connector.",
+  "version": "0.1.2",
+  "author": { "name": "ScheduleLens", "url": "https://schedulelens.com" },
+  "homepage": "https://schedulelens.com/developers/",
+  "repository": "https://github.com/0xbobski/schedulelens-claude-plugin",
+  "license": "MIT",
+  "keywords": ["construction", "scheduling", "primavera-p6", "ms-project", "asta-powerproject", "dcma"]
+}
